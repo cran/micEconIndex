@@ -1,0 +1,7 @@
+c3279b810f1dc1e1257c84dced4dc19a *DESCRIPTION
+f5abcca55655144838493bb6fde4d611 *NAMESPACE
+fad44efdc45bfb7bb8ce988daa22927f *R/indices.R
+37c23f37290131d1f763cf5a8b34b309 *man/priceIndex.Rd
+52ecb053175b2fb6a49e9a6936457a88 *man/quantityIndex.Rd
+36192b80e7542c86bfd1f16ba61faef6 *tests/indices.R
+d9ffcd2679f260f330a0d0ef4fd62899 *tests/indices.Rout.save
